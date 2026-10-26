@@ -1,0 +1,6 @@
+{
+  "name": "DataFrame 数据处理 WebApp 实验室 (R 语言版)",
+  "description": "基于 R 语言 tidyverse 体系的交互式 DataFrame 实验室，涵盖结构代数、索引切片、分组聚合、长宽表重塑、六大分析案例与 AI 智能诊断引擎。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
